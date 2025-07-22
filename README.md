@@ -34,12 +34,7 @@ streamlit run app.py
 ⚠️ Note: The trained model file (densenet121.h5) is not included in this repository due to GitHub's file size limit.
 
 To use the app:
-
-Upload the model manually to your local folder
-OR
-Modify app.py to download the model from Google Drive or other storage
-
-Want help with that? Open an issue or contact the author below.
+Open an issue or contact the author below.
 
 📂 Project Structure
 File	Description
