@@ -48,7 +48,7 @@ Hrishita Chakraborty
 Capstone Project, 2024–25
 📧 hrishitachakraborty.2022@gmail.com
 
-Chinmayee Patil 
+Chinmayee Patil                        
 Capstone Project, 2024-25
 📧 patilchinmayee07@gmail.com
 
