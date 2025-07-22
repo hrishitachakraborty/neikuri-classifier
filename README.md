@@ -43,10 +43,14 @@ requirements.txt	Python dependencies
 README.md	This file
 (You must add the .h5 model file yourself)	
 
-👩‍🔬 Author
+👩‍🔬 Authors
 Hrishita Chakraborty
 Capstone Project, 2024–25
 📧 hrishitachakraborty.2022@gmail.com
+
+Chinmayee Patil 
+Capstone Project, 2024-25
+📧 patilchinmayee07@gmail.com
 
 📜 License
 For academic and research use only. Please contact the author for reuse permissions or extensions.
